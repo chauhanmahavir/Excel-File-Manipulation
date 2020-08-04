@@ -6,9 +6,9 @@ Search, Add, Remove, Update in Excel File
 
 * [Python 3.X](https://docs.python.org/3/)
 
-* xlrd
+* [xlrd](https://pypi.org/project/xlrd/)
 
-* xlwd
+* [xlwd](https://pypi.org/project/xlwt/)
 
 ## Profiles
 
